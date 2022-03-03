@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java2.sql.DriverManager"/>
+<fullyQualifiedTypeName name="com.vc.factory.ConnectionFactory"/>
+<fullyQualifiedTypeName name="com.vc.dao.StudentDaoImpl"/>
+<fullyQualifiedTypeName name="com.vc.dao.IStudentDao"/>
+<fullyQualifiedTypeName name="com.vc.service.IStudentService"/>
+<fullyQualifiedTypeName name="com.vc.service.StudentServiceImpl"/>
+<fullyQualifiedTypeName name="com.vc.factory.StudentDaoFactory"/>
+<fullyQualifiedTypeName name="com.vc.factory.StudentServiceFactory"/>
+<fullyQualifiedTypeName name="com.vc.bean.Student"/>
+<fullyQualifiedTypeName name="java.sql.DatabaseMetaData"/>
+<fullyQualifiedTypeName name="java.sql.SQLException"/>
+<fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="com.sun.xml.internal.ws.wsdl.writer.document.Types"/>
+<fullyQualifiedTypeName name="com.sun.xml.internal.ws.org.objectweb.asm.Type"/>
+<fullyQualifiedTypeName name="java.sql.CallableStatement"/>
+<fullyQualifiedTypeName name="oracle.jdbc.OracleType"/>
+<fullyQualifiedTypeName name="java.sql.ResultSet"/>
+<fullyQualifiedTypeName name="java.sql.ResultSetMetaData"/>
+<fullyQualifiedTypeName name="java.sql.Types"/>
+<fullyQualifiedTypeName name="oracle.jdbc.OracleTypes"/>
+<fullyQualifiedTypeName name="com.sun.java.util.jar.pack.Package.File"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="java.io.FileWriter"/>
+<fullyQualifiedTypeName name="java.io.InputStream"/>
+<fullyQualifiedTypeName name="com.vc.readblob.Test"/>
+<fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+<fullyQualifiedTypeName name="java.sql.DriverManager"/>
+<fullyQualifiedTypeName name="java.io.FileReader"/>
+<fullyQualifiedTypeName name="java.sql.Statement"/>
+<fullyQualifiedTypeName name="javafx.scene.chart.BubbleChart"/>
+<fullyQualifiedTypeName name="java.io.BufferedReader"/>
+<fullyQualifiedTypeName name="oracle.jdbc.datasource.OracleDataSource"/>
+<fullyQualifiedTypeName name="oracle.jdbc.pool.OracleDataSource"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="org.apache.commons.dbcp2.BasicDataSource"/>
+</qualifiedTypeNameHistroy>

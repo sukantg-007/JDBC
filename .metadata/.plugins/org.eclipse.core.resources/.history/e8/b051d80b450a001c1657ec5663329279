@@ -1,0 +1,21 @@
+package com.vc.blob;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+
+public class Test {
+
+	private static final String INSERT_QUERY_PERSON="INSERT INTO PERSON VALUES (?,?)";
+	public static void main(String[] args) {
+		Connection con=null;
+		PreparedStatement ps=null;
+		try {
+			Class.forName("oracle.jdbc.OracleDriver");
+			con=
+		} catch (Exception e) {
+			// TODO: handle exception
+		}
+
+	}
+
+}
